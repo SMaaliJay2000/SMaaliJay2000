@@ -1,10 +1,10 @@
 {
-  "repos": null,
-  "contributed": null,
-  "stars": null,
-  "commits": null,
-  "followers": null,
-  "loc_total": null,
-  "loc_added": null,
-  "loc_deleted": null
+  "repos": 7,
+  "contributed": 1,
+  "stars": 0,
+  "commits": 69,
+  "followers": 1,
+  "loc_total": 33284,
+  "loc_added": 42216,
+  "loc_deleted": 8932
 }
