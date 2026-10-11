@@ -1,0 +1,45 @@
+
+                           t11:ii;;i;;;;;;iii
+                      ifft1111iii;;i;1i1itiii1;ii;
+                    11t1iiiii;ii;iiii;ii;;iiii11iii;;
+                  tti;;:;ii1iiii;ii;;::::;;ii11tiiiiiiii;
+                ft1ti;;;i;;i::;;::::;i;:;::i11ii1i;;;iiii1i
+               CLttii;;:i:;iii;;;;;;;i:;ii:it1i;;;;;;;ii1t1
+              Lti1t11i;;i;;;ii;i;i;;::::::itiii;:;;;1ti11tt1
+             C1:::;iii;iii;::;::::::::::::11ii;;::i1f1i;i;;tt
+             8f;;:;;iii;;;::::::::::;;:;;;ii;:::::111i;;;i;;tf1
+          :CCCLti;;;;;;;;::::::::;::::::;i:ii;:1ii11i;:::iii1tft
+          ;Li:tf;;iii;:::::::;iii111ii;::::::i1i1i1ti:::::;ii;if1;
+          1Ci;;C1;;:;;i;;;;1fCCCCCCCGGGLt11i;i;::::;:::;;;;;ittti
+        ttiL1i1ti;;;:;;:;itfCGGGGGGG0000GCLtttfi:;;;::;;;;;i11t1i
+        Gfi;iit1;ii;;::i1tfLCCGGG0G00000000GCfC0t::;;;::ii;1iiii;
+        Lfii1i1;:;i;;;;1ttfLCCCGG0000GGGG00000G8L:;;i;;;ii;i1ii;
+       iLLLL1i;;:;i;;;;itfLCG00080000G08888800G0Ci;;i;1i1ii1tf;
+      iGL1LfL1i;;;;::;;1fCCCGG00888888@@888888800L:;;;iii111i;
+       iLLii0L1i::::::;i1tttttLCGG0088GCLffffLCCCGt:;ii;1i1i1
+        ;CCtLCLitiit111fCCG0GCfffCG00CCLLCG08888CL0i:::i;;;ii
+         f0CtLf1ftti;i;;;iittftfftL00Lff11itfGG8@@8G0Cf:i;;
+           ttttf:ffi;iiitffCGft1tfC00GGLtttLCGCGC001GC;
+               L:i0f;tLCCCGGGCi11L08@C@@0GGGG080G00fLCL
+               fi;081fCG00000fi1;LG0@0C@8000088@@@8fG8G
+                Ci08ffCG0888GiLf1C0@@@000008888@880fG@C
+                ft8@f1LCGG0G;1C1;tCG80C00CfCG000800L00
+                 C8@C1C00GGCLLftLLLG80G0800LC808800C@
+                  08LtLGfLfi1tfLGG0000008880CG00000GG
+                   @Ltt0GGCt;;i1tfCGGCLffLG0LG0G088
+                   G@1ifG0Lf11tLC0GG8800000008000@f
+                    0Gi;1CLtttfCGGGG0888880000008L
+                     8C;;1Lf1fLLGGG008880080G0GGL
+                  ii:G8fi:ittfLCGG0088808880GGLC1i
+                 i:::LG11;;i11ffLC00G00080CLf1t8;;t
+               1i::::;i;;;;i;;i11fLffttfftiiit00::11
+              t;:;::::::::;;;;i;;;;::;;;::ittf0G::;ti
+              t:;:::::;;;:::;:i:i;;:::;;;1CGG001:;;11
+           ffC;:;;::::;iiii;:;;iii111ffLC000801::;;i;t1i1
+     ff11ii;1f:;;;::::;ii1111i11tLCCG0008008C;::;;:iii1ii1i11i
+ fff1i::::;:f;:;:;:::;iii1tfftttfLCGG000880t::::;;:i;111:11:i11i1i
+i;;::::::;:1i:;;;;;:::;1t11tLLttfLCG00000C1:::;;;::i;1ii:1t;::11;;i1
+::;;;:::::11:;;;;;;:::::i11itLCLfLCCGG00Li:::;;;;::ii11i:;ti;::11::;
+:;;;;::::i1i;;;::;;::;::::::;1LCCLLLLLLt;::::;i::;:i1i1;:;1i;;:;1i;;
+;;;::::::;t;;:;;;;;;::;::;::::::::::::::::::;;:::;;;i;1::;i1;:::;ii;
+;;:::::::::iii;;;;;;::;:::;;;;;;:::::;;:::::;::;;;;1;ii::;;1;:::;;i;

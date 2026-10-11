@@ -1,0 +1,25 @@
+{
+  "handle": "smaalijay2000@github",
+  "login": "SMaaliJay2000",
+  "birthday": "2000-02-26",
+  "info": [
+    ["OS", "Windows, Linux"],
+    ["Uptime", "@AGE@"],
+    ["Host", "Novalabs Business Solutions"],
+    ["Kernel", "Full-Stack Developer"],
+    ["IDE", "Visual Studio 2022, VS Code"],
+    ["Coding Experience", "2 years"]
+  ],
+  "languages": [
+    ["Languages.Programming", "C#, JS, TypeScript, SQL"],
+    ["Languages.Computer", "HTML, CSS, JSON, YAML"],
+    ["Languages.Real", "English, Sinhala"]
+  ],
+  "hobbies": [
+    ["Hobbies.Software", "Creating new projects, New technologies"]
+  ],
+  "contact": [
+    ["Email.Personal", "mjayawardhana19240@gmail.com"],
+    ["LinkedIn", "maalitha-jayawardhana-289725358"]
+  ]
+}
