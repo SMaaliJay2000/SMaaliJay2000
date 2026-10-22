@@ -54,7 +54,7 @@
 <text x="470" y="55.5" fill="#953800">OS:</text>
 <text x="975" y="55.5" fill="#0550ae" text-anchor="end">Windows, Linux</text>
 <text x="470" y="77.0" fill="#953800">Uptime:</text>
-<text x="975" y="77.0" fill="#0550ae" text-anchor="end">26 years, 7 months, 25 days</text>
+<text x="975" y="77.0" fill="#0550ae" text-anchor="end">26 years, 7 months, 26 days</text>
 <text x="470" y="98.5" fill="#953800">Host:</text>
 <text x="975" y="98.5" fill="#0550ae" text-anchor="end">Novalabs Business Solutions</text>
 <text x="470" y="120.0" fill="#953800">Kernel:</text>
@@ -80,7 +80,7 @@
 <text x="470" y="378.0" fill="#24292f" font-weight="bold">GitHub Stats</text>
 <line x1="581.2" x2="975" y1="374.0" y2="374.0" stroke="#d0d7de" stroke-width="1.5"/>
 <text x="470" y="399.5" fill="#953800">Repos:</text>
-<text x="710" y="399.5" fill="#0550ae" text-anchor="end">7 (Contributed: 1)</text>
+<text x="710" y="399.5" fill="#0550ae" text-anchor="end">7 (Contributed: 2)</text>
 <text x="760" y="399.5" fill="#953800">Stars:</text>
 <text x="975" y="399.5" fill="#0550ae" text-anchor="end">0</text>
 <text x="470" y="421.0" fill="#953800">Commits:</text>
